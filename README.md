@@ -4,6 +4,8 @@
 
 Este roadmap é voltado para iniciantes que desejam ingressar na área de programação com Java. Os cursos aqui listados são gratuitos e fazem parte da plataforma Dio.me.
 
+[**Roadmap de Java** (Básico ao Avançado)](https://github.com/julianazanelatto/roadmap_java_repo/blob/main/README.md)
+
 > "Quem nunca errou, nunca tentou algo novo!"
 
 <!-- https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code (esse código deixa o que está escrito escondido) --> 
