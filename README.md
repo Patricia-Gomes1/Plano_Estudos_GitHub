@@ -2,7 +2,7 @@
 
 ## Criando um plano de estudos Orange Tech + | BackEnd
 
-Este roadmap irá mostrar o progresso do curso. Os cursos aqui listados são gratuitos e fazem parte da plataforma Dio.me.
+Repositório criado para o primeiro desafio de projeto. Nele irei mostrar o progresso do curso. Os cursos aqui listados são gratuitos e fazem parte da plataforma Dio.me.
 
 [**Bootcamp Orange Tech + | BackEnd**](https://web.dio.me/track/orange-tech-backend)
 
@@ -38,3 +38,9 @@ Task para continuar o aprimoramento:
 - [ ] Refazer sozinho
 - [ ] Tirar dúvidas
 - [ ] Done
+
+Links Úteis
+
+[Dillinger (Editor de Texto Markdown On Line)](https://dillinger.io/)
+
+[Sintaxe Markdown](https://www.markdownguide.org/)
